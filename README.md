@@ -1,0 +1,5 @@
+- Hi, I’m @ConnorCodesatSchool
+- I’m interested in videogames and coding them.
+- I’m currently learning JavaScript through Khan Academy.
+- I’m looking to collaborate on proxy servers to play games.
+- How to reach me is just through my Github page.
